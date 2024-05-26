@@ -1,13 +1,13 @@
-Please concider the below factor while cionjtyributing
+Please concider the below factor while contributing
 
 Code Style:
-Maintain a consisten code style for readability.
+Maintain a consistent code style for readability.
 
-Documantation:
-Ensure wll documented code for effective collaboration.
+Documentation:
+Ensure well-documented code for effective collaboration.
 
 Testing:
-Thoroughly test your changes before submittting a pull requestr.
+Thoroughly test your changes before submittting a pull request.
 
 Issue Tracker:
 Check the Issue Tracker for task.
@@ -16,4 +16,4 @@ Code Review:
 All contribution undergo a review process.
 
 Licensing:
-Conjtributions are licensed.
+Contributions are licensed.
